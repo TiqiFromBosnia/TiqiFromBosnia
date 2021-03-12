@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TiqiFromBosnia
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning JavaScript and making index.html's
-- 💞️ I’m looking to collaborate on Nothing
+- 💞️ I’m looking to collaborate on Nothing For now
 - 📫 How to reach me just add me on discord soup#9625
 
 <!---
